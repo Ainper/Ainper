@@ -21,7 +21,8 @@ I am a student, currently studying in Open Bootcamp. I started to fall in love w
 	- Reaccionar nativo
 	
 -  **Backend Development**
-	<img align="center" width="200" scr="https://user-images.githubusercontent.com/119804338/205510501-f69b1e90-8a5c-4d89-80b3-59428f65d034.png"/>
+<div align="center">
+	<img align="center" width="200" src="https://user-images.githubusercontent.com/119804338/205510501-f69b1e90-8a5c-4d89-80b3-59428f65d034.png"/>
 	
 ##  Reach me:
 <p align="left">

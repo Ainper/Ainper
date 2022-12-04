@@ -1,6 +1,6 @@
 #  ¡Bienvenido a mi github! 👋
 
-<div align="center" width="200">
+<div align="center" width="300">
 	<img align="center" width="200" src="https://camo.githubusercontent.com/4aab5b818b0afd7e114f088a2ba6a92cef39261b2c1e992f780beff654003138/68747470733a2f2f6d65646961332e67697068792e636f6d2f6d656469612f4c3152317476493973766b495777705659722f67697068792e676966"/>
 </div>
 

@@ -22,13 +22,13 @@ I am a student, currently studying in Open Bootcamp. I started to fall in love w
 	
 -  **Backend Development**
 <div align="center">
-	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205510501-f69b1e90-8a5c-4d89-80b3-59428f65d034.png"/>
-	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205510998-932b6f22-f76f-4ba7-aff8-84ed52340abb.png"/>
 	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205510825-f71b932b-861d-402b-b0bd-46c4d22fe1b5.png"/>
+	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205510998-932b6f22-f76f-4ba7-aff8-84ed52340abb.png"/>
+	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205510501-f69b1e90-8a5c-4d89-80b3-59428f65d034.png"/>
 	
 	
 	
-##  Reach me:º
+##  Reach me:
 <p align="left">
 	<a href="https://user-images.githubusercontent.com/119804338/205510501-f69b1e90-8a5c-4d89-80b3-59428f65d034.png">
 	

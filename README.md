@@ -16,7 +16,14 @@ I am a student, currently studying in Open Bootcamp. I started to fall in love w
 	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205512156-236a861e-904f-4331-859e-27edbc642786.png"/>
 	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205512259-395c5f11-c0d2-4c60-b44d-d5b64dcd379c.png"/>
 	</p>
-	
+	<p>
+	</p>
+	<p>
+	</p>
+	<p>
+	</p>
+	<p>
+	</p>
 -  **Frontend Development**
 
 <p align="left">
@@ -25,12 +32,28 @@ I am a student, currently studying in Open Bootcamp. I started to fall in love w
 	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205510501-f69b1e90-8a5c-4d89-80b3-59428f65d034.png"/>
 	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205510883-c799ffad-4cd4-4e25-a750-ef32a695ab10.png"/>
 	</p>
+	<p>
+	</p>
+	<p>
+	</p>
+	<p>
+	</p>
+	<p>
+	</p>
 	
 -  **Backend Development**
 
 <p align="left">
 	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205510856-73eea846-1329-4ef4-b52b-c4aaa660b2f5.png"/>
 	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205511941-d6dad6a8-241b-4cee-a05e-8169b37cf255.png"/>
+	</p>
+	<p>
+	</p>
+	<p>
+	</p>
+	<p>
+	</p>
+	<p>
 	</p>
 	
 		

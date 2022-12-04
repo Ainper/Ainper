@@ -24,6 +24,7 @@ I am a student, currently studying in Open Bootcamp. I started to fall in love w
 	</p>
 	<p>
 	</p>
+	
 -  **Frontend Development**
 
 <p align="left">

@@ -11,7 +11,7 @@ I am a student, currently studying in Open Bootcamp. I started to fall in love w
 
 -  **Competitive Programming**
 <div align="center">
-	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205512156-236a861e-904f-4331-859e-27edbc642786.png))"/>
+	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205512156-236a861e-904f-4331-859e-27edbc642786.png"/>
 	<img align="left" width="100" src="https://user-images.githubusercontent.com/119804338/205512259-395c5f11-c0d2-4c60-b44d-d5b64dcd379c.png"/>
 	
 -  **Frontend Development**

@@ -21,11 +21,8 @@ I am a student, currently studying in Open Bootcamp. I started to fall in love w
 	- Reaccionar nativo
 	
 -  **Backend Development**
-	- HTML, CSS and Javascript :white_check_mark:
-	- Bootstrap
-	- React with Redux :electron:
-	- React Native
-
+	<img align="left" width"200" src="https://github.com/Ainper/Ainper/blob/main/html5.png"/>
+	
 ##  Reach me:
 <p align="left">
 <a href="https://www.instagram.com/_ainper/">

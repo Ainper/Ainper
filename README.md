@@ -27,9 +27,13 @@ I am a student, currently studying in Open Bootcamp. I started to fall in love w
 	<p><a href="https://www.java.com/es/" title="Java"><img width="60" src="https://user-images.githubusercontent.com/119804338/205510856-73eea846-1329-4ef4-b52b-c4aaa660b2f5.png"/></a>
 	<a href="https://nodejs.org/es/" title="NodeJS"><img width="60" src="https://user-images.githubusercontent.com/119804338/205511941-d6dad6a8-241b-4cee-a05e-8169b37cf255.png"/></a></p>
 	
-		
 ##  Reach me:
-	<p><a href="https://cplusplus.com/" title="C++"><img width="100" src="https://user-images.githubusercontent.com/119804338/205510890-58400d65-86cb-48f0-88c9-e17fe83fd26a.png"/></a></p>
+
+<div align="left">
+	<p><a href="https://www.instagram.com/_ainper/" title="Instagram"><img width="30" src="https://user-images.githubusercontent.com/119804338/205605542-75ce2a04-1c47-4477-b341-13fd6b8af5c5.png"/></a>
+	<a href="https://www.linkedin.com/in/ainaraperezavila/" title="Linkedin"><img width="30" src="https://user-images.githubusercontent.com/119804338/205609045-0134ef9b-ab05-4756-b2f4-ee5a327fc61b.png"/></a></p></div>
+	
+
 
 ###  Interesting stats:
 
